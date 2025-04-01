@@ -25,7 +25,8 @@ npm start
 
  Edite o arquivo .ignore para especificar quais pastas, subpastas e arquivos não devem ser lidos pelo código. Pastas são escritas sem extensão, arquivos precisam da extensão.
 
- ```.ignore
+Conteúdo do arquivo .ignore
+ ```
 .example
 package.json
 tsconfig.json
