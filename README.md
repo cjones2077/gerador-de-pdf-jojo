@@ -6,13 +6,14 @@ Comece executando no terminal:
 npm i
 ```
 
-Altere o arquivo config.json para especificar o caminho da pasta, o nome do .pdf e o título do texto.
+Altere o arquivo config.json para especificar o caminho da pasta, o caminho de saída dos .pdf e o título do texto.
+Aqui eu estou supondo que seu back-end e seu front-end estejam na mesma pasta, no caso a "entrega3".
 
 ```json
 {
-    "diretorio": "C:/Users/Seu-Usuario/Documents/Codigos/jojo/back-end",
-    "saidaPDF": "back-end.pdf",
-    "titulo": "LPIII - Entrega 1 - Nome Do Aluno"
+    "diretorio": "diretorio/da/entrega3",
+    "dirSaida": "diretorio/de/saida",
+    "titulo": "LPIII - Entrega x - Nome Do Aluno"
 }
 ```
 

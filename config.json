@@ -1,5 +1,5 @@
 {
-    "diretorio": "C:/Users/Seu-Usuario/Documents/Codigos/jojo/back-end",
-    "saidaPDF": "back-end.pdf",
-    "titulo": "LPIII - Entrega 1 - Nome Do Aluno"
+    "diretorio": "/home/cjones2077/Projetos/NodeJS/oferta-e-interesse-em-fretes/",
+    "dirSaida": "./pdfs",
+    "titulo": "LPIII - Entrega 2 - Carlos Eduardo Paiva Locatelli"
 }
