@@ -7,7 +7,7 @@ npm i
 ```
 
 Altere o arquivo config.json para especificar o caminho da pasta, o caminho de saída dos .pdf e o título do texto.
-Aqui eu estou supondo que seu back-end e seu front-end estejam na mesma pasta, no caso a "entrega3".
+Aqui eu estou supondo que seu back-end e seu front-end estejam na mesma pasta, no caso ilustrada pela "entrega3".
 
 ```json
 {
