@@ -24,6 +24,8 @@ npm start
 ```
  ## Importante
 
+Certifique-se de criar a pasta /pdfs
+
  Edite o arquivo .ignore para especificar quais pastas, subpastas e arquivos não devem ser lidos pelo código. Pastas são escritas sem extensão, arquivos precisam da extensão.
 
 Conteúdo do arquivo .ignore
